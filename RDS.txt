@@ -1,5 +1,0 @@
-db name: flightms
-----------------------
-
-username: thomas
-password: adminadmin
